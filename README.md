@@ -2,7 +2,8 @@
 Android App Development in Synchronous or A-Synchronous Engagement
 
 **Purpose**: laying out an information Webpage or Simple Website, hosted remotely on GitHub & using GitHub as version control and deployment
-- Integration of GitHub, Atom, and Local Rendering to prototype with HTML and inline CSS 
+- Integration of GitHub, Atom, and Local Rendering to prototype with HTML and inline CSS
+- See GitHub instruction about web hosting
 
 **Purpose**: Coding to unknown android device
 - Introduction to device permissions & data ownership
