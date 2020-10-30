@@ -3,7 +3,8 @@ Android App Development in Synchronous or A-Synchronous Engagement
 
 **Purpose**: Coding to unknown android device
 - See Vertical Teaming of Introductory, Intermediate, and Advanced Computer Science
-  - <a href="">Click Here</a>
+  - <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
+  
 ---
 
 # To Include
