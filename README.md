@@ -51,6 +51,9 @@ Note: prototyping means taking a large problem and breaking it into pieces, then
 - "The sum is greater than the parts": integrated code breaks because of the sum, not because the code is broken
 - We need to know the difference between parts and sum
 
+Case Studies of behavior: APCS Flowcharting
+- Using GitHub Markdown to make lists and checklists
+
 ---
 
 # Ideas coming from
