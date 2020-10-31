@@ -21,6 +21,25 @@ Android App Development in Synchronous or A-Synchronous Engagement
 <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#device-sideloading-android">Full Device Side-loading Instructions</a>
 - see http://ketai.org/
 
+# Other details: why a Science Option is worth *NOT* completing a *DIPLOMA Exam*
+- "The Grade is only between the student and Mr. Mercer
+- Learning, Evaluation, and Assessment
+
+---
+
+### How we learn
+
+Coding the Hard Way: typing out every line, sometimes using copy and paste
+- Caution: Processing-JAVA will break if copy and paste is used too much (copy into Notepad to delete hidden formatting characters or retype the entire doc)
+- Mr. Mercer will demonstrate his method for typing code
+
+Evaluation: bugs and talking about code provides Mr. Mercer anecdotal evidence of your learning
+
+Assessment: multiple types
+- submitting program apps so Mr. Mercer can experience the user experience and read some code
+- submitting narrated videos of code highlighting coding structures Mr. Mercer is asking for while explaining what they do
+
+
 ---
 
 # To Include
