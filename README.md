@@ -22,7 +22,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 - see http://ketai.org/
 
 # Other details: why a Science Option is worth *NOT* completing a *DIPLOMA Exam*
-- "The Grade is only between the student and Mr. Mercer
+- "The Grade" is only between the student and Mr. Mercer
 - Learning, Evaluation, and Assessment
 
 ---
@@ -37,7 +37,7 @@ Evaluation: bugs and talking about code provides Mr. Mercer anecdotal evidence o
 
 Assessment: multiple types
 - submitting program apps so Mr. Mercer can experience the user experience and read some code
-- submitting narrated videos of code highlighting coding structures Mr. Mercer is asking for while explaining what they do
+- submitting narrated videos (max 60 seconds) of code highlighting coding structures Mr. Mercer is asking for while explaining what they do (arithmetic, GUI & Design, loops, decisions, behaviors, interactions, other groups of code, etc.)
 
 
 ---
