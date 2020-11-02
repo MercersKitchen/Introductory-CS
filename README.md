@@ -12,7 +12,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 - Rubrics are actually a gamification of High School CS
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
 
-### Skip to Progressions and Assignments
+### Skip to Overview for sideloading Android: Progressions and Assignments
 - https://github.com/Intro-CS-App-Dev-and-Deploy/Overview
 
 <a href="">Hosing code, versions, final version and executables in GitHub</a>
