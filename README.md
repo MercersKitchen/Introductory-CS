@@ -21,6 +21,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 
 <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#device-sideloading-android">Full Device Side-loading Instructions</a>
 - see http://ketai.org/
+- See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
 
 # Other details: why a Science Option is worth *NOT* completing a *DIPLOMA Exam*
 - "The Grade" is only between the student and Mr. Mercer
