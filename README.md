@@ -12,6 +12,9 @@ Android App Development in Synchronous or A-Synchronous Engagement
 - Rubrics are actually a gamification of High School CS
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
 
+### Skip to Progressions and Assignments
+- https://github.com/Intro-CS-App-Dev-and-Deploy/Overview
+
 <a href="">Hosing code, versions, final version and executables in GitHub</a>
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
