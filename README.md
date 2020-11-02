@@ -15,6 +15,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 <a href="">Hosing code, versions, final version and executables in GitHub</a>
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
+- Exemplar executable program files one step from deploying to Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Computer-App-Exemplars">here</a>
 
 <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
 
