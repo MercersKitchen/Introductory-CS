@@ -33,7 +33,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 
 ---
 
-### How we learn
+# How we learn
 
 Coding the Hard Way: typing out every line, sometimes using copy and paste
 - Caution: Processing-JAVA will break if copy and paste is used too much (copy into Notepad to delete hidden formatting characters or retype the entire doc)
