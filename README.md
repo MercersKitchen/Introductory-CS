@@ -16,6 +16,10 @@ Android App Development in Synchronous or A-Synchronous Engagement
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
 
 ### GitHub Quick Notes for Android Hosting
+
+GitHub Webpage and Website Hosting
+- Links TBA
+
 <a href="">Hosing code, versions, final version and executables in GitHub</a>
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
