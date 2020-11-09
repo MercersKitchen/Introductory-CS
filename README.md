@@ -2,19 +2,20 @@
 Android App Development in Synchronous or A-Synchronous Engagement
 
 **Purpose**: laying out an information Webpage or Simple Website, hosted remotely on GitHub & using GitHub as version control and deployment
-- Integration of GitHub, Atom, and Local Rendering to prototype with HTML and inline CSS
+- Integration of GitHub, Atom, and Local Browser-rendering (i.e. Chrome) to prototype with HTML and inline CSS
 - See GitHub instruction about web hosting
+- See Vertical Teaming of Introductory, Intermediate, and Advanced Computer Science
+  - <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
+  - *CAUTION: UNDER CONSTRUCTION*
 
-**Purpose**: Coding to unknown android device
+**Purpose**: Coding to unknown android device ("One code to control them all")
 - Introduction to device permissions & data ownership
 - See Vertical Teaming of Introductory, Intermediate, and Advanced Computer Science
   - <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 - Rubrics are actually a gamification of High School CS
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
 
-### Skip to Overview for sideloading Android: Progressions and Assignments
-- https://github.com/Intro-CS-App-Dev-and-Deploy/Overview
-
+### GitHub Quick Notes for Android Hosting
 <a href="">Hosing code, versions, final version and executables in GitHub</a>
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
@@ -26,7 +27,7 @@ Android App Development in Synchronous or A-Synchronous Engagement
 - see http://ketai.org/
 - See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
 
-# Other details: why a Science Option is worth *NOT* completing a *DIPLOMA Exam*
+### Other details: why this Science Option is worth *NOT* completing a *DIPLOMA Exam*
 - "The Grade" is only between the student and Mr. Mercer
 - Learning, Evaluation, and Assessment
 
