@@ -49,7 +49,6 @@ Assessment: multiple types
 - submitting program apps so Mr. Mercer can experience the user experience and read some code
 - submitting narrated videos (max 60 seconds) of code highlighting coding structures Mr. Mercer is asking for while explaining what they do (arithmetic, GUI & Design, loops, decisions, behaviors, interactions, other groups of code, etc.)
 
-
 ---
 
 # To Include
