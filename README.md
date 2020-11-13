@@ -23,8 +23,8 @@ Getting Email and Google Classroom Ready
     - Mr. Mercer owns a paper and pencil book for his most sensitive passwords and only accesses these in specific physical locations
   - General EMail Security: pwned: see https://haveibeenpwned.com/ (last accessed 20201113)
     - Enable notifications (confirm through email), free service
-    - Used by Badrap, <a href="https://badrap.io/">here</a>, to register multiple address & other resources (like your network if you login from a home computer)
-  - An article for creating **strong** passwords, <a href="https://lifehacker.com/how-to-make-sure-your-passwords-havent-been-stolen-1837305758">In Lifehacker</a> (last accessed 20201113)
+    - Used by Badrap, <a href="https://badrap.io/">here, active on 20201113</a>, to register multiple address & other resources (like your network if you login from a home computer)
+  - An article for creating **strong** passwords, <a href="https://lifehacker.com/how-to-make-sure-your-passwords-havent-been-stolen-1837305758">In Lifehacker, last accessed 20201113</a>
   - An interesting read, <a href="https://lifehacker.com/when-a-company-asks-you-to-reset-your-password-should-1837516590">What if a company asks you to reset your password, should you be worried?</a> (last accessed 20201113)
     - Answer: No! Passwords are meant to be changed
 - Google Classroom: See Mr. Mercer for Classroom Codes (Students, if someone doesn't have a code, please email it to them)
