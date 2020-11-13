@@ -18,14 +18,15 @@ Android App Development & Web Promotion in Synchronous or A-Synchronous Engageme
 Getting Email and Google Classroom Ready
 - EMail
   - Password Manager (Last Pass, KeePass), introduction to cyber security & review these two tools
-    - See <a href="https://www.tomsguide.com/us/8-character-password-dead,news-29429.html">This Article</a> for information on 12 or 16 character passwords
+    - See <a href="https://www.tomsguide.com/us/8-character-password-dead,news-29429.html">This Article, last accessed 20201113</a> for information on 12 or 16 character passwords
     - Since Passwords need to be longer, passPhrases no longer work well for people who use the Internet a lot
     - Mr. Mercer owns a paper and pencil book for his most sensitive passwords and only accesses these in specific physical locations
-  - General EMail Security: pwned: see https://haveibeenpwned.com/
+  - General EMail Security: pwned: see https://haveibeenpwned.com/ (last accessed 20201113)
     - Enable notifications (confirm through email), free service
-    - Used by Badrap, <a href="https://badrap.io/">here</a>, to register multiple address & other resources
-  - An article for creating **strong** passwords, <a href="https://lifehacker.com/how-to-make-sure-your-passwords-havent-been-stolen-1837305758">In Lifehacker</a>
-  - An interesting read, <a href="https://lifehacker.com/when-a-company-asks-you-to-reset-your-password-should-1837516590">What if a company asks you to reset your password, should you be worried?</a>
+    - Used by Badrap, <a href="https://badrap.io/">here</a>, to register multiple address & other resources (like your network if you login from a home computer)
+  - An article for creating **strong** passwords, <a href="https://lifehacker.com/how-to-make-sure-your-passwords-havent-been-stolen-1837305758">In Lifehacker</a> (last accessed 20201113)
+  - An interesting read, <a href="https://lifehacker.com/when-a-company-asks-you-to-reset-your-password-should-1837516590">What if a company asks you to reset your password, should you be worried?</a> (last accessed 20201113)
+    - Answer: No! Passwords are meant to be changed
 - Google Classroom: See Mr. Mercer for Classroom Codes (Students, if someone doesn't have a code, please email it to them)
 
 ### GitHub Quick Notes for Android Hosting
