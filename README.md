@@ -84,3 +84,14 @@ Case Studies of behavior: APCS Flowcharting
 https://github.com/MercersKitchen/Introductory-Computer-Science
 
 ---
+
+# Additional Videos to Review
+
+Algorithms
+- Triggers
+- Data to work on
+- produce at least one result
+- terminate after successful measure
+- "Divide and conquor"
+
+---
