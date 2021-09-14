@@ -1,6 +1,10 @@
 # Introductory-CS
 Android App Development & Web Promotion in Synchronous or A-Synchronous Engagement
 
+---
+
+## Webpages
+
 **Purpose**: laying out an information Webpage or Simple Website, hosted remotely on GitHub & using GitHub as version control and deployment
 - Integration of GitHub, Atom, and Local Browser-rendering (i.e. Chrome) to prototype with HTML and inline CSS
 - See GitHub instruction about web hosting
@@ -8,12 +12,20 @@ Android App Development & Web Promotion in Synchronous or A-Synchronous Engageme
   - <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
   - *CAUTION: UNDER CONSTRUCTION*
 
+---
+
+## App Development
+
 **Purpose**: Coding to unknown android device ("One code to control them all")
 - Introduction to device permissions & data ownership
 - See Vertical Teaming of Introductory, Intermediate, and Advanced Computer Science
   - <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 - Rubrics are actually a gamification of High School CS
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
+
+---
+
+## Getting Ready for Introductory CS
 
 Getting Email and Google Classroom Ready
 - EMail
