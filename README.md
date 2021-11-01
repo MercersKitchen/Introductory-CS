@@ -19,7 +19,7 @@ Android App Development & Web Promotion in Synchronous or A-Synchronous Engageme
 **Purpose**: Coding to unknown android device ("One code to control them all")
 - Introduction to device permissions & data ownership
 - See Vertical Teaming of Introductory, Intermediate, and Advanced Computer Science
-  - <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
+  - <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click Here</a>
 - Rubrics are actually a gamification of High School CS
 - Learning Project Completion through manual and automated version control & prototyping-then-integration
 
