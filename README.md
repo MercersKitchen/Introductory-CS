@@ -35,7 +35,7 @@ Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#com
 
 <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
 
-<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#device-sideloading-android">Full Device Side-loading Instructions</a>
+<a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Full Device Side-loading Instructions</a>
 - see http://ketai.org/
 - See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
 
