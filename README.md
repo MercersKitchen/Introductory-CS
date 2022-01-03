@@ -16,7 +16,7 @@ Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
 # App Development
 
-Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#computer-apps">Click Here</a>
+Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
 **Purpose**: Coding to unknown android device ("One code to control them all")
 - Introduction to device permissions & data ownership
