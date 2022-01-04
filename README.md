@@ -11,6 +11,10 @@ Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Cl
 - Introduction to error checking
 - Using visual data to introduce various computer science algorithms (triggers, data, and termination)
 
+### Other details: this *Science Option* does **not** include a *Diploma Exam*
+- "The Grade" is only between the student and Mr. Mercer
+- Learning, Evaluation, and Assessment
+
 ---
 
 # Industry-level: Hosing code, versions, final version and executables in GitHub
@@ -22,18 +26,11 @@ Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Cl
 
 ### GitHub Quick Notes for Android Hosting
 
-<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">
-Instructions for using an Emulator</a>
+<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
 
-
-<a href="https://github.com/MercersKitchen/Device-Sideloading-Android">
-Full Device Side-loading Instructions</a>
+<a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Full Device Side-loading Instructions</a>
 - see http://ketai.org/
 - See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
-
-### Other details: why this Science Option is worth *NOT* completing a *DIPLOMA Exam*
-- "The Grade" is only between the student and Mr. Mercer
-- Learning, Evaluation, and Assessment
 
 ---
 
