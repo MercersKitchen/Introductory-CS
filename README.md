@@ -5,11 +5,16 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
+Portfolio Development and Website Hosting on GitHub
+- Advanced: RPi LAMP Website Mirroring (See Mr. Mercer)
+
 ---
 
 # Android App Development
 
 Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
+
+---
 
 ### Other details: this *Science Option* does **not** include a *Diploma Exam*
 - "The Grade" is only between the student and Mr. Mercer
