@@ -13,7 +13,7 @@ Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Cl
 
 ---
 
-<a href="">Hosing code, versions, final version and executables in GitHub</a>
+# Industry-level: Hosing code, versions, final version and executables in GitHub
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
 - Exemplar executable program files one step from deploying to Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Computer-App-Exemplars">here</a>
@@ -22,7 +22,8 @@ Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Cl
 
 ### GitHub Quick Notes for Android Hosting
 
-<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
+<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">
+Instructions for using an Emulator</a>
 
 <a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Full Device Side-loading Instructions</a>
 - see http://ketai.org/
