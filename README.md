@@ -1,28 +1,24 @@
 # Introductory-CS
 Android App Development & Website Promotion in Synchronous or A-Synchronous Engagement
 
+# Website Promotion
+
+Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
+
 ---
 
-Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
+# Android App Development
 
-**Purpose**: Coding to unknown android device ("One code to control them all")
-- Introduction to device permissions & data ownership
-- Introduction to display geometry and variable population
-- Introduction to error checking
-- Using visual data to introduce various computer science algorithms (triggers, data, and termination)
+Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
 ### Other details: this *Science Option* does **not** include a *Diploma Exam*
 - "The Grade" is only between the student and Mr. Mercer
 - Learning, Evaluation, and Assessment
 
----
-
-# Industry-level: Hosing code, versions, final version and executables in GitHub
+### Industry-level: Hosing code, versions, final version and executables in GitHub
 - Exporting executables in processing are important in grading
 - Jar Files, dependencies processing has added that might be different on my machine, will be included
 - Exemplar executable program files one step from deploying to Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Computer-App-Exemplars">here</a>
-
----
 
 ### GitHub Quick Notes for Android Hosting
 
