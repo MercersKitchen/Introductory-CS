@@ -55,7 +55,9 @@ Assessment: multiple types
 
 Summary directed at industry mentors: family and others
 
-AP Vocabulary
+AP
+- CSA Vocabulary, Concepts, Objectives
+- CSP Direction
 
 ---
 
