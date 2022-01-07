@@ -67,8 +67,6 @@ https://github.com/MercersKitchen/Introductory-Computer-Science
 
 ---
 
-# Additional Videos to Review
-
 Algorithms
 - Triggers
 - Data to work on
