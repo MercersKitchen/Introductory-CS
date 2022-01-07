@@ -53,6 +53,10 @@ Assessment: multiple types
 
 # To Include
 
+Summary directed at industry mentors: family and others
+
+AP Vocabulary
+
 ---
 
 # Ideas coming from
