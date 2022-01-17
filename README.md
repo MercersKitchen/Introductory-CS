@@ -63,7 +63,7 @@ AP
 
 # Ideas coming from
 
-https://github.com/MercersKitchen/Introductory-Computer-Science
+https://github.com/MercersKitchen/Past-Lesson-Ideas
 
 ---
 
