@@ -75,3 +75,8 @@ Algorithms
 - "Divide and conquer"
 
 ---
+
+Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
+
+---
+
