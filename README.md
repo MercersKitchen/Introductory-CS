@@ -14,6 +14,10 @@ Portfolio Development and Website Hosting on GitHub
 
 Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
+Focus on GUI and Functionality
+- Drawing App
+- Music App
+
 ---
 
 ### Other details: this *Science Option* does **not** include a *Diploma Exam*
