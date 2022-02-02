@@ -1,6 +1,11 @@
 # Introductory-CS
 Android App Development & Website Promotion in Synchronous or A-Synchronous Engagement
 
+**NOTE**: only have a Chromebook? 
+- REPL.IT or https://replit.com/ is a good option that fully syncs to GitHub 
+
+---
+
 # Website Promotion
 
 Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
