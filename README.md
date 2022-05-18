@@ -101,3 +101,14 @@ Reminder about Creating RELEASES for Due Dates
 
 ---
 
+# To Include
+
+Rewriting from Summer School Expereince
+- HTML & CSS Website Hosting and Promotion
+- IPO: Booleans, other triggers, operators and assignemnt operatoros (see Display Geometry and GUI Design)
+- Sequencing: developing visual displays as subprograms
+- IF's and LOOP's, nesting and learning to count
+
+---
+
+- Events and 
