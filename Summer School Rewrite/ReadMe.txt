@@ -2,6 +2,7 @@
 To Do List
 - Make sure Gradebook in CS Planning is updated to reflect changes
 - Make private all other repos in websites that are not current, consider deleting these too
+- Delete all Sandboxes in Mercer's Kitchen and Old Repos in Docs/GitHub
 
 **Where is continuity with Colin**
 - Semester and Course Planning
