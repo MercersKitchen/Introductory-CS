@@ -30,6 +30,13 @@ Focus on GUI and Functionality
 
 # Progressions
 
+Note: Turn Private all public respositories not being used
+Except CS10 Links
+
+18 Days
+5 Credits
+3 days per credit
+
 
 ---
 
