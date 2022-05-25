@@ -1,14 +1,48 @@
 
 To Do List
-- Printout Calendar and time available
+- Make sure Gradebook in CS Planning is updated to reflect changes
+- Make private all other repos in websites that are not current, consider deleting these too
 
 **Where is continuity with Colin**
+- Semester and Course Planning
+- Websites
 - Display Geometry
 - Divisions by Rectangle, learning about text, 2d, and images (aspect ratio)
 - Case Studies
 - Drawing Program
 - Music Program
 - Open Project (optional, computer app or side load to Android)
+
+
+
+Planning So far
+- Course Outline (Note Grading Change)
+- Day #1 out of Computer Science Planning: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day/Online
+
+- See https://github.com/QEHS-Websites/Overview
+- Make all records for Websites here
+
+- Next: https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+
+- Next: Drawing Program and Music Play development
+- See Rubric and Case Studies
+- See, for how to do a case study, https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option
+
+- Next Learning HTML and Application to Promotion Website
+- See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-the-internet-and-web-documents-with-small-actives-to-illustrate
+- See https://github.com/QEHS-Websites/LearningHTML.github.io
+- See https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io
+- (CSS1) Compare and contrast markup with scripting
+  - Evaluate how to turn on or off JavaScript
+  - See Built-in Console creating HTML (as print or println)
+- For Author Page and Who Am I, see https://github.com/QEHS-Websites/Who-Am-I
+
+
+
 
 Overview Ideas
 - High School Graduation Goal: ID how computer science, Android sideloading, Computer Apps, etc. can lead to part time jobs and earing income
@@ -48,6 +82,16 @@ Overview Ideas
     - Case Study: main screenshot, general GUI, features list, behaviors
     - Final Product and Prototyping illustrating development progress (similar to lessons demonstrating potential and then actual product)
     - To Do List for future versions
+
+Websites Idea list:
+- Demonstration of Gr5 Website
+- Notes and explanations
+- Demonstrating how Webhosting, Building, Maintenance, & Viewing Looks like (Question with Google Drawing Response or Image)
+- Creating a Website to learn Websites
+- Include JavaScript Off Code
+- Reading URLs
+- Computer Environment and Building GitHub Hosted Website
+- What does it mean to host locally or access server? How do you know which one you are doing?
 
 
 Static Prototyping - Rectangle
@@ -108,3 +152,5 @@ Display Geometry Checking
 - 1 Section that could be QUIT and RESTART Buttons only
 
 Drawing and Music Development with some lessons
+
+Note: Night mode based on button and hardcoded time (OS System Time Reading Code)
