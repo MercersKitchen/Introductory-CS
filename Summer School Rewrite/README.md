@@ -28,9 +28,68 @@ Focus on GUI and Functionality
 
 ---
 
+### Other details: this *Science Option* does **not** include a *Diploma Exam*
+- "The Grade" is only between the student and Mr. Mercer
+- Learning, Evaluation, and Assessment
+
+### Industry-level: Hosing code, versions, final version and executables in GitHub
+- Exporting executables in processing are important in grading
+- Jar Files, dependencies processing has added that might be different on my machine, will be included
+- Exemplar executable program files one step from deploying to Android, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Computer-App-Exemplars">here</a>
+
+### GitHub Quick Notes for Android Hosting
+
+<a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Device-Sideloading-Android#2020-2021-processing-emulator-instructions">Instructions for using an Emulator</a>
+
+<a href="https://github.com/MercersKitchen/Device-Sideloading-Android">Full Device Side-loading Instructions</a>
+- see http://ketai.org/
+- See Student Exemplars, <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Android-App-Exemplars">here</a>
+
+### Reminder about Creating RELEASES for Due Dates
+- Releases are created from your most recent "stable version" or due date using the MAIN Branch
+- Reminder: Create a TAG like BETA (press the ADD Button)
+- If you have access to a non-school computer, you can also EXPORT your program so it runs on any computer like it is yours. This helps with grading
+  - File / Export: exports Processing and Java files (called jar files) so the Processing and Java Installations and configuration are not required, automatically runs as if on your computer (after downloaded)
+  - If you EXPORT,  Reminder: Drag and Drop your files into BINARY
+- Must share GitHub URL for your RELEASE to find your final version
+- Alternatively, create a new Repository or Folder and Upload the exported file there.
+
+**CAUTION**: test these before submitting
+- Note: repository submission may be necessary
+
+---
+
+# How we learn
+
+Coding the Hard Way: typing out every line, sometimes using copy and paste
+- Caution: Processing-JAVA will break if copy and paste is used too much (copy into Notepad to delete hidden formatting characters or retype the entire doc)
+- See https://github.com/QEHS-ProcessingJava/Common-Syntax-Error-and-Solution
+- Mr. Mercer will demonstrate his method for typing code
+
+Evaluation: bugs and talking about code provides Mr. Mercer anecdotal evidence of your learning
+
+Assessment: multiple types
+- submitting coded apps so Mr. Mercer can experience the user experience and read some code
+- submitting narrated videos (max 60 seconds) of code highlighting coding structures Mr. Mercer is asking for while explaining what they do (arithmetic, GUI & Design, loops, decisions, behaviors, interactions, other groups of code, etc.)
+- Coding smaller solutions to a subproblem, then combining solutions for the larger problem demonstrates increasing sophistications of computational thinking
+
+---
+# Mandatory Beginning Ideas
+
+Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
+
+Using a Password Management System
+- Minimum Pass Phrase Length: 20 characters, mixed
+
+---
+
+---
+
+---
+
 # Progressions
 
-Note: Turn Private all public respositories not being used
+Note: Turn Private all public repositories not being used
 Except CS10 Links
 
 18 Days
@@ -289,3 +348,49 @@ Reminder about Creating RELEASES for Due Dates
 
 
 ---
+
+Music Player Changes
+
+---
+
+Specific Features that will be graded at 65% if copied
+
+Song Meta Data: Display in the CANVAS the title of the song
+
+Play-Pause:
+- Pause: self-explanatory
+- Play from where we left off, we are in the song
+- End of Song: if listened to 80% of song, we are at the end of the song so rewind it
+
+Looping Songs: using number keys
+- Loop Once, then Play one last time (actually means play twice)
+- Loop 9 Times, then Play one last time (actually means play ten times)
+- Loop an Infinite number of times
+- Intermediate: CATCH all other number keys and tell user they don't work
+- Advanced: casting strongly formatted variables
+
+Mute Button
+
+Fast Forward 1 second
+
+Fast Rewind 1 second
+
+Stop Button
+
+Next Button:
+- "Starting all songs by getting into them" (actually means we start every song at the beginning of the song)
+- Automatic Play Button
+
+Back Button: Student Assignment
+
+---
+
+How to Get more than 65%
+- Include more meta data, current song specific
+- different definitions of the above buttons
+
+Adding more buttons (either your own creation or copying buttons I have not reviewed from my notes)
+- Wave Forms
+- Set Loops Points
+- Randomize the entire play list
+- Repeat the entire play list
