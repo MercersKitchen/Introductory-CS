@@ -98,6 +98,11 @@ Using a Password Management System
 - Extra Days for Project is planned at the end
 
 #### Planning ideas
+- Course Outline & Summer School Details 
+- https://github.com/QEHS-Websites/Overview
+- https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+- https://github.com/QEHS-Websites/Introductory-HTML
+- https://github.com/QEHS-Websites/LearningHTML.github.io
 
 ---
 
@@ -106,6 +111,8 @@ Using a Password Management System
 - Extra Days for Project is planned at the end
 
 #### Planning ideas
+- https://github.com/Intro-CS-App-Dev-and-Deploy/Overview
+
 
 ---
 
@@ -341,5 +348,17 @@ Algorithms
 - produce at least one result
 - terminate after successful measure
 - "Divide and conquer"
+
+---
+
+Sections (Copy to all New Repos)
+- Introduction
+- Questions
+- Expectations
+- Instructions, Vocabulary, and Explanations (including URLs and IDE Use)
+- Code or Blocks of Code Emphasized (including parameters)
+- Gamification or Rubric or Points
+- Additional Information to Answer Questions
+- Extensions
 
 ---
