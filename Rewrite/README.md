@@ -11,7 +11,7 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
-Lessons: <a href="">Click Here</a>
+Lessons: <a href="<a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#websites">Click Here</a>">Click Here</a>
 
 Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
@@ -21,6 +21,8 @@ Portfolio Development and Website Hosting on GitHub
 ---
 
 # Android App Development
+
+Lessons: <a href="<a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here</a>">Click Here</a>
 
 Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
