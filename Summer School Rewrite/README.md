@@ -83,6 +83,11 @@ Using a Password Management System
 
 ---
 
+# Course Syllabus
+
+### Monday July 4, 2022
+
+
 ---
 
 ---
