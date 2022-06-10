@@ -91,13 +91,19 @@ Using a Password Management System
 - Websites, <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#websites">Click Here when Available</a>
 - Computer & Android App, <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here when Available</a>
 
+---
+
 ## Websites
+
+#### Planning ideas
+- Internet Introduction with Scavenger Hunt
+---
 
 ## Computer and Android App
 
+#### Planning ideas
 
-
-
+---
 
 ---
 
