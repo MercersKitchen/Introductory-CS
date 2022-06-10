@@ -94,12 +94,16 @@ Using a Password Management System
 ---
 
 ## Websites
+- 5 Days Maximum 
+- Extra Days for Project is planned at the end
 
 #### Planning ideas
-- Internet Introduction with Scavenger Hunt
+
 ---
 
 ## Computer and Android App
+- 10 Days Maximum 
+- Extra Days for Project is planned at the end
 
 #### Planning ideas
 
