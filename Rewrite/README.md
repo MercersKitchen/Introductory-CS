@@ -11,6 +11,8 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
+Lessons: <a href="">Click Here</a>
+
 Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
 Portfolio Development and Website Hosting on GitHub
@@ -84,11 +86,44 @@ Using a Password Management System
 ---
 
 # Course Syllabus
+- Websites, <a href="">Click Here when Available</a>
+- Computer & Android App, <a href="">Click Here when Available</a>
 
-### Monday July 4, 2022
+## Websites
+
+## Computer and Android App
+
+
+
 
 
 ---
+
+### Planning ideas
+
+#### Monday July 4, 2022
+#### Tuesday July 5, 2022
+#### Wednesday July 6, 2022
+#### Thursday July 7, 2022
+#### Friday July 8, 2022
+
+#### Monday July 13, 2022
+#### Tuesday July 14, 2022
+#### Wednesday July 15, 2022
+#### Thursday July 16, 2022
+#### Friday July 17, 2022
+
+#### Monday July 20, 2022
+#### Tuesday July 21, 2022
+#### Wednesday July 22, 2022
+#### Thursday July 23, 2022
+#### Friday July 24, 2022
+
+#### Monday July 27, 2022
+#### Tuesday July 28, 2022
+#### Wednesday July 29, 2022
+#### Thursday July 30, 2022
+#### Friday July 17, 2022
 
 ---
 
