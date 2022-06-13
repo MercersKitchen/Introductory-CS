@@ -61,6 +61,9 @@ Focus on GUI and Functionality
 **CAUTION**: test these before submitting
 - Note: repository submission may be necessary
 
+**CAUTION**: while computers make it easy to copy work, Processing-Java does break sometimes if you simply take a program, copy it into your repository, and submit it without "making it yours" (by changing the code)
+- Please do not put me in this position as I will have to evaluate your work with a lower grade.
+
 ---
 
 # How we learn
