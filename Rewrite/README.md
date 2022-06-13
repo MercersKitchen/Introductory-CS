@@ -155,7 +155,6 @@ Except CS10 Links
 5 Credits
 3 days per credit
 
-
 ---
 
 Lesson Planning Ideas
@@ -182,10 +181,7 @@ To Do List
 - Music Program
 - Open Project (optional, computer app or side load to Android)
 
-
-
 Planning So far
-- Course Outline (Note Grading Change)
 - Day #1 out of Computer Science Planning: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day/Online
 
 - See https://github.com/QEHS-Websites/Overview
@@ -209,9 +205,6 @@ Planning So far
   - Evaluate how to turn on or off JavaScript
   - See Built-in Console creating HTML (as print or println)
 - For Author Page and Who Am I, see https://github.com/QEHS-Websites/Who-Am-I
-
-
-
 
 Overview Ideas
 - High School Graduation Goal: ID how computer science, Android sideloading, Computer Apps, etc. can lead to part time jobs and earing income
@@ -262,10 +255,7 @@ Websites Idea list:
 - Computer Environment and Building GitHub Hosted Website
 - What does it mean to host locally or access server? How do you know which one you are doing?
 
-
 Static Prototyping - Rectangle
-
-
 
 Introduction to Processing-IDE and Variables
 - Drawing a Rectangle (Continuation from Websites, DIVs): floats and doubles with size
