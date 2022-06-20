@@ -119,6 +119,19 @@ Using a Password Management System
 
 ---
 
+Teacher Folder - Should be emailed
+All forms need to be filled out
+
+Review Student Handbook
+Google Classroom Invite form
+Google Classroom Go Course
+
+Grade Books
+Midpoint - post grades
+
+Student Intro by July 1 or 2
+
+
 ---
 
 ### Planning ideas
