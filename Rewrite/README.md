@@ -131,6 +131,7 @@ Midpoint - post grades
 
 Student Intro by July 1 or 2
 
+Student Bingo - See previous Google Classroom
 
 ---
 
