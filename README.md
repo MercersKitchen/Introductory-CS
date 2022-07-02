@@ -101,6 +101,21 @@ Day #1 out of Computer Science Planning: https://github.com/MercersKitchen/Compu
 - End Goal of Drawing Program & Music Program, sideloaded to Android or running as a Computer App
   - No need for permissions or other personal information shared
 
+### Case Studies and Demonstration (with time for ONline Tools to be downloaded and configured)
+
+**Question:** if you could design any app (computer or tablet), what would it be
+- would it access different device features & sensors
+
+Mr. Mercer's Demonstration: "Magic Tiles" contains all introductory features of introductory app building (see document camera)
+- objects on screen
+- interaction with touch pad
+- music
+- image, word, & sound feedback
+
+**Ultra Short Summary**
+- Library Mr. Mercer teaches Android App Dev: ketai.org
+- Google Rapid Prototyping AFTER downloads and installations complete: https://www.youtube.com/watch?v=JMjozqJS44M
+
 #### Single App Planning Case Study
 
 #### Promotional Website for the above, Single App
