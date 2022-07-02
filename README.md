@@ -11,6 +11,8 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
+Lessons: <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#websites">Click Here</a>
+
 Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
 
 Portfolio Development and Website Hosting on GitHub
@@ -19,6 +21,8 @@ Portfolio Development and Website Hosting on GitHub
 ---
 
 # Android App Development
+
+Lessons: <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here</a>
 
 Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
 
@@ -57,6 +61,9 @@ Focus on GUI and Functionality
 **CAUTION**: test these before submitting
 - Note: repository submission may be necessary
 
+**CAUTION**: while computers make it easy to copy work, Processing-Java does break sometimes if you simply take a program, copy it into your repository, and submit it without "making it yours" (by changing the code)
+- Please do not put me in this position as I will have to evaluate your work with a lower grade.
+
 ---
 
 # How we learn
@@ -74,13 +81,277 @@ Assessment: multiple types
 - Coding smaller solutions to a subproblem, then combining solutions for the larger problem demonstrates increasing sophistications of computational thinking
 
 ---
-
 # Mandatory Beginning Ideas
 
 Ensure your email is working and protected, "Have I Been Pwned?", "Badrap": this is now a legal and recorded form of communication for everything online
 
 Using a Password Management System
 - Minimum Pass Phrase Length: 20 characters, mixed
+
+---
+
+# Course Syllabus
+- Websites, <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#websites">Click Here when Available</a>
+- Computer & Android App, <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here when Available</a>
+
+Day #1 out of Computer Science Planning: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day/Online
+
+- High School Graduation Goal: ID how computer science, Android sideloading, Computer Apps, etc. can lead to part time jobs and earing income
+  - Campus EPSB, Gaming Competitions (see Mr. Mercer for venues), Careers the Next Generation, Work Experience, Summer Internships, etc.
+- End Goal of Drawing Program & Music Program, sideloaded to Android or running as a Computer App
+  - No need for permissions or other personal information shared
+
+#### Single App Planning Case Study
+
+#### Promotional Website for the above, Single App
+- 
+
+---
+
+## Websites
+- 5 Days Maximum 
+- Extra Days for Project is planned at the end
+
+#### Planning ideas
+- Course Outline & Summer School Details 
+- https://github.com/QEHS-Websites/Overview
+- https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+- https://github.com/QEHS-Websites/Introductory-HTML
+- https://github.com/QEHS-Websites/LearningHTML.github.io
+
+Progression: HTML & CSS Website Hosting and Promotion
+- Introduction, a Grade 5 Template Website (hosted locally)
+- Demonstrate how Webhosting, Building, Maintenance, & Viewing Looks like (Question with Google Drawing Response or Image)
+- Reading URLs
+- Computer Environment and Building GitHub Hosted Website
+- What does it mean to host locally or access server? How do you know which one you are doing?
+
+- See https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+
+- Creating a "thing" to promote (ReadMe.md)
+
+- See Rubric and Case Studies
+- See, for how to do a case study, https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project
+- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option
+
+- Entering text information for what to promote (review Who Am I for 5 Questions to Include on Author Page)
+- Next Learning HTML and Application to Promotion Website
+- See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
+- Searching for images (min 3), audio, and video material (min 1 each)
+- For Author Page and Who Am I, see https://github.com/QEHS-Websites/Who-Am-I
+- Develop BLANK index.html, folders, ReadMe.txt, and childPage.html
+
+- [Case Study, Brain Storming] Creating the Ultimate Drawing (Notation) Program used for presentations, etc.
+  - Note: advanced prototyping is Server-Client running on same computer (ignoring Stack, Sockets, and VPN Tunneling)
+- [Case Study, Brain Storming] Creating the Ultimate Music Program used in Drawing Program or stand-alone
+  - Example: music fan, mediation or other unique tastes, instrumentation (i.e. saxophone favorites)
+  - Example: "demo" examples or music can be emailed as an executable app (developing this can be viewed as a part-time job)
+- Question: personal reason for developing Drawing and Music Programs
+- [Longer Activity] Paper and Pencil Case Studies
+  - Note: creativity is mandatory
+  - Products that look like mine, student exemplars, or classmates will be graded less
+  - Must use other peoples ideas and change them
+    - Note: hierarchy of changes exits (easier changes to original ideas)
+    - Image or word descriptions here are acceptable
+  - Note: computer science can be applied to all creative ideas - it is the creative idea and the application of CS I am evaluating
+- Create Hosted GitHub Repositories for both projects
+- Prepare Computer Environments
+- Intro HTML & CSS in ReadMe.md Files & GitHub Markdown
+  - Research: URL, date accessed, and notes
+  - To Do List (related to daily lessons & course plan, class-time work or synchronous, and a-synchronous work times)
+  - Original Case Study Image and additional images
+  - Progress Notes (related to rubrics and grading)
+- Websites: HTML & inline CSS Promotional Website
+  - Main Promotion completed when actual programs completed (including screenshots & finalized highlights list)
+    - Application of Splash Page to 3-column flexbox
+    - Video or screenshot description of use and function
+      (AP Style presentation, similar to walking around student desks asking "show me what you have so far" & answering " what does that do?")
+  - About Author (modified Who Am I)
+  - Site Map and Links (inside and outside webpage, note date accessed)
+  - App Version Downloads (executable or Processing-Java version)
+    - Note: Processing-Java may not run on another program as developed on author's
+  - Next Project (Project Credit): full program, start to finish, mimics all steps
+    - Case Study: main screenshot, general GUI, features list, behaviors
+    - Final Product and Prototyping illustrating development progress (similar to lessons demonstrating potential and then actual product)
+    - To Do List for future versions
+
+- (CSS1) Compare and contrast markup with scripting
+  - Evaluate how to turn on or off JavaScript
+  - How a webpage can tell if JavaScript is enabled and create security
+  - Include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>
+- Introduction to Console and Built-in Console creating HTML (as print or println)
+- See https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io
+- Note: we will learn HTML with inline CSS, but it is possible to write a website with JavaScript
+
+- Develop Head, .header, .footer, & quotes in childPage.html
+- Copy childPage to index.html (include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>)
+- Research and Develop NAV (match to case-study folder structure)
+- In childPages, copy and paste childPage.html into model experimental pages
+- In index.html, Finish NAV
+- In index.html, Finish MAIN Experimental Pages Summaries
+- Develop each experimental page 
+- See: https://github.com/QEHS-Websites/Introductory-HTML#enrichment-setting-up-the-chrome-browser-for-html--css-validation
+- Develop with HTML Validation
+- Introduce CSS Validation and Accessibility Testing
+
+---
+
+## Computer and Android App
+- 10 Days Maximum 
+- Extra Days for Project is planned at the end
+
+#### Planning ideas
+- https://github.com/Intro-CS-App-Dev-and-Deploy/Overview
+
+What kind of app do you want to create?
+- includes a timer
+- Look at Magic Tiles: example of all the elements what is possible in CS10 
+
+
+---
+
+Teacher Folder - Should be emailed
+All forms need to be filled out
+
+Review Student Handbook
+Google Classroom Invite form
+Google Classroom Go Course
+
+Grade Books
+Midpoint - post grades
+
+Student Intro by July 1 or 2
+
+Student Bingo - See previous Google Classroom
+
+---
+
+### Planning ideas
+
+#### Monday July 4, 2022
+#### Tuesday July 5, 2022
+#### Wednesday July 6, 2022
+#### Thursday July 7, 2022
+#### Friday July 8, 2022
+
+#### Monday July 13, 2022
+#### Tuesday July 14, 2022
+#### Wednesday July 15, 2022
+#### Thursday July 16, 2022
+#### Friday July 17, 2022
+
+#### Monday July 20, 2022
+#### Tuesday July 21, 2022
+#### Wednesday July 22, 2022
+#### Thursday July 23, 2022
+#### Friday July 24, 2022
+
+#### Monday July 27, 2022
+#### Tuesday July 28, 2022
+#### Wednesday July 29, 2022
+#### Thursday July 30, 2022
+#### Friday July 17, 2022
+
+---
+
+# Progressions
+
+Note: Turn Private all public repositories not being used
+Except CS10 Links
+
+18 Days
+5 Credits
+3 days per credit
+
+---
+
+Lesson Planning Ideas
+
+Rewriting from Summer School Experience
+- 
+- IPO: Booleans, other triggers, operators and assignment operators (see Display Geometry and GUI Design)
+- Sequencing: developing visual displays as subprograms
+- IF's and LOOP's, nesting and learning to count
+- Events: keyPressed() and mousePressed(), including option to research more
+
+To Do List
+- Make sure Gradebook in CS Planning is updated to reflect changes
+- Make private all other repos in websites that are not current, consider deleting these too
+- Delete all Sandboxes in Mercer's Kitchen and Old Repos in Docs/GitHub
+
+**Where is continuity with Colin**
+- Semester and Course Planning
+- Websites
+- Display Geometry
+- Divisions by Rectangle, learning about text, 2d, and images (aspect ratio)
+- Case Studies
+- Drawing Program
+- Music Program
+- Open Project (optional, computer app or side load to Android)
+
+Planning So far
+
+Static Prototyping - Rectangle
+
+Introduction to Processing-IDE and Variables
+- Drawing a Rectangle (Continuation from Websites, DIVs): floats and doubles with size
+- Note: ratios only to know about space (continuing from Websites, pixel counting is not useful when displays change)
+- Quick Assignment: drawing other shapes
+- Sequential Coding Assignment: developing visual data of 2D Shapes (review of Processing.org / Reference)
+- Full Assignment: drawing rect() with (note: all single lines of code)
+  1. Text using Strings
+  2. Images using PImage Variables
+  3. Imbedded 2D Shapes within rect()
+- Note: will develop sequential algorithms for text, images (aspect ratio), and imbedded shapes
+
+Introduction to Single-line-IFs and other Decisions: Display Geometry
+- size() vs. fullScreen()
+- Display Dimensions
+- Display Orientation
+- [Algorithm] Will size work on the current display?
+- [Algorithm] Is display the same orientation as what developer coded for?
+- [Advanced] Can code save user from not knowing about display orientations (i.e. "Bruh, turn your phun")
+- [Advanced]: media queries (similar to Websites)
+
+Measles Assignment (or Celebration Cards, etc.)
+- Top Grades for Advanced Measles or Celebration Cards
+
+Tools to develop
+- sequential code for visual data
+- how to count
+- primitive data
+- Booleans to communicate between procedures
+- subprograms (VOIDs) for specific uses
+- [OPTIONAL] Text Auto-calculator
+
+The new calculator application exploring BEDMAS, ratios, and various display orientations
+See Malici's scalable display
+- Assignments
+
+Assignment Operators
+How to count - Chess Board Type Nested FOR Loops
+- index variables, notation to summarize in chart form
+- able to copy and paste formulae
+
+Display Geometry Checking
+- Logical Operators
+- Ternary Operator
+
+3x3 Assignment
+- Develop a story for buttons
+- Required
+- 11 buttons: preplanned and non-overlapping
+- 9 examples of visual data: either images, text, 2d shapes, or mix
+- Splash Screen: beginning section of button, text, and image
+- Ending & Restarting Section
+- 1 Section that could be QUIT and RESTART Buttons only
+
+Drawing and Music Development with some lessons
+
+Note: Night mode based on button and hardcoded time (OS System Time Reading Code)
 
 ---
 
@@ -91,6 +362,8 @@ Summary directed at industry mentors: family and others
 AP
 - CSA Vocabulary, Concepts, Objectives
 - CSP Direction
+
+Yearly Calendar URL: <a href="https://docs.google.com/spreadsheets/d/1c3QTu_eUsUiM0LzllKyTZhSCx301YgYWmmiS9t7ZFOA/edit#gid=1">2022-2023 School Calendar</a>
 
 ---
 
@@ -109,16 +382,14 @@ Algorithms
 
 ---
 
-
-
-# To Include
-
-Rewriting from Summer School Experience
-- HTML & CSS Website Hosting and Promotion
-- IPO: Booleans, other triggers, operators and assignment operators (see Display Geometry and GUI Design)
-- Sequencing: developing visual displays as subprograms
-- IF's and LOOP's, nesting and learning to count
+Sections (Copy to all New Repos)
+- Introduction
+- Questions
+- Expectations
+- Instructions, Vocabulary, and Explanations (including URLs and IDE Use)
+- Code or Blocks of Code Emphasized (including parameters)
+- Gamification or Rubric or Points
+- Additional Information to Answer Questions
+- Extensions
 
 ---
-
-Yearly Calendar URL: <a href="https://docs.google.com/spreadsheets/d/1c3QTu_eUsUiM0LzllKyTZhSCx301YgYWmmiS9t7ZFOA/edit#gid=1">2022-2023 School Calendar</a>
