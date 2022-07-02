@@ -11,9 +11,9 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 # Website Promotion
 
-Lessons: <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#websites">Click Here</a>
+Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here, for everyone</a>
 
-Hyperlinks: <a href="https://github.com/QEHS-Websites/Overview">Click Here</a>
+Mr. Mercer's Summer School Lessons Ideas: <a href="https://github.com/MercersKitchen/Introductory-CS#websites">Click Here, but only for Mr. Mercer</a>
 
 Portfolio Development and Website Hosting on GitHub
 - Advanced: RPi LAMP Website Mirroring (See Mr. Mercer)
@@ -22,9 +22,9 @@ Portfolio Development and Website Hosting on GitHub
 
 # Android App Development
 
-Lessons: <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here</a>
-
 Hyperlinks: <a href="https://github.com/Intro-CS-App-Dev-and-Deploy/Overview">Click Here</a>
+
+Mr. Mercer's Summer School Lessons Ideas: <a href="https://github.com/MercersKitchen/Introductory-CS/tree/main/Rewrite#computer-and-android-app">Click Here, but only for Mr. Mercer</a>
 
 Focus on GUI and Functionality
 - Drawing App
