@@ -128,8 +128,7 @@ Mr. Mercer's Demonstration: "Magic Tiles" contains all introductory features of 
 
 #### Planning ideas
 - Course Outline & Summer School Details 
-- https://github.com/QEHS-Websites/Overview
-- https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
+
 - https://github.com/QEHS-Websites/Introductory-HTML
 - https://github.com/QEHS-Websites/LearningHTML.github.io
 
