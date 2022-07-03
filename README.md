@@ -126,92 +126,6 @@ Mr. Mercer's Demonstration: "Magic Tiles" contains all introductory features of 
 - 5 Days Maximum 
 - Extra Days for Project is planned at the end
 
-#### Planning ideas
-- Course Outline & Summer School Details 
-
-- https://github.com/QEHS-Websites/Introductory-HTML
-- https://github.com/QEHS-Websites/LearningHTML.github.io
-
-Progression: HTML & CSS Website Hosting and Promotion
-- Introduction, a Grade 5 Template Website (hosted locally)
-- Demonstrate how Webhosting, Building, Maintenance, & Viewing Looks like (Question with Google Drawing Response or Image)
-- Reading URLs
-- Computer Environment and Building GitHub Hosted Website
-- What does it mean to host locally or access server? How do you know which one you are doing?
-
-- See https://github.com/QEHS-Websites/Internet-Architecture-Development-Tools
-
-- Creating a "thing" to promote (ReadMe.md)
-
-- See Rubric and Case Studies
-- See, for how to do a case study, https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
-- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-drawing-program
-- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-music-program
-- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-optional-final-project
-- See https://github.com/Intro-CS-App-Dev-and-Deploy/Overview#final-exam-android-side-loading-option
-
-- Entering text information for what to promote (review Who Am I for 5 Questions to Include on Author Page)
-- Next Learning HTML and Application to Promotion Website
-- See https://github.com/QEHS-Websites/Introductory-HTML#introduction-to-html5-using-github-markdown
-- Searching for images (min 3), audio, and video material (min 1 each)
-- For Author Page and Who Am I, see https://github.com/QEHS-Websites/Who-Am-I
-- Develop BLANK index.html, folders, ReadMe.txt, and childPage.html
-
-- [Case Study, Brain Storming] Creating the Ultimate Drawing (Notation) Program used for presentations, etc.
-  - Note: advanced prototyping is Server-Client running on same computer (ignoring Stack, Sockets, and VPN Tunneling)
-- [Case Study, Brain Storming] Creating the Ultimate Music Program used in Drawing Program or stand-alone
-  - Example: music fan, mediation or other unique tastes, instrumentation (i.e. saxophone favorites)
-  - Example: "demo" examples or music can be emailed as an executable app (developing this can be viewed as a part-time job)
-- Question: personal reason for developing Drawing and Music Programs
-- [Longer Activity] Paper and Pencil Case Studies
-  - Note: creativity is mandatory
-  - Products that look like mine, student exemplars, or classmates will be graded less
-  - Must use other peoples ideas and change them
-    - Note: hierarchy of changes exits (easier changes to original ideas)
-    - Image or word descriptions here are acceptable
-  - Note: computer science can be applied to all creative ideas - it is the creative idea and the application of CS I am evaluating
-- Create Hosted GitHub Repositories for both projects
-- Prepare Computer Environments
-- Intro HTML & CSS in ReadMe.md Files & GitHub Markdown
-  - Research: URL, date accessed, and notes
-  - To Do List (related to daily lessons & course plan, class-time work or synchronous, and a-synchronous work times)
-  - Original Case Study Image and additional images
-  - Progress Notes (related to rubrics and grading)
-- Websites: HTML & inline CSS Promotional Website
-  - Main Promotion completed when actual programs completed (including screenshots & finalized highlights list)
-    - Application of Splash Page to 3-column flexbox
-    - Video or screenshot description of use and function
-      (AP Style presentation, similar to walking around student desks asking "show me what you have so far" & answering " what does that do?")
-  - About Author (modified Who Am I)
-  - Site Map and Links (inside and outside webpage, note date accessed)
-  - App Version Downloads (executable or Processing-Java version)
-    - Note: Processing-Java may not run on another program as developed on author's
-  - Next Project (Project Credit): full program, start to finish, mimics all steps
-    - Case Study: main screenshot, general GUI, features list, behaviors
-    - Final Product and Prototyping illustrating development progress (similar to lessons demonstrating potential and then actual product)
-    - To Do List for future versions
-
-- (CSS1) Compare and contrast markup with scripting
-  - Evaluate how to turn on or off JavaScript
-  - How a webpage can tell if JavaScript is enabled and create security
-  - Include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>
-- Introduction to Console and Built-in Console creating HTML (as print or println)
-- See https://github.com/QEHS-Websites/Inner-HTML-JavaScript-Console.github.io
-- Note: we will learn HTML with inline CSS, but it is possible to write a website with JavaScript
-
-- Develop Head, .header, .footer, & quotes in childPage.html
-- Copy childPage to index.html (include <noscript>MESSAGE ABOUT SAFETY and this page does not run JavaScript</noscript>)
-- Research and Develop NAV (match to case-study folder structure)
-- In childPages, copy and paste childPage.html into model experimental pages
-- In index.html, Finish NAV
-- In index.html, Finish MAIN Experimental Pages Summaries
-- Develop each experimental page 
-- See: https://github.com/QEHS-Websites/Introductory-HTML#enrichment-setting-up-the-chrome-browser-for-html--css-validation
-- Develop with HTML Validation
-- Introduce CSS Validation and Accessibility Testing
-
----
-
 ## Computer and Android App
 - 10 Days Maximum 
 - Extra Days for Project is planned at the end
@@ -222,6 +136,29 @@ Progression: HTML & CSS Website Hosting and Promotion
 What kind of app do you want to create?
 - includes a timer
 - Look at Magic Tiles: example of all the elements what is possible in CS10 
+
+---
+
+[Case Study, Brain Storming] Creating the Ultimate Drawing (Notation) Program used for presentations, etc.
+  - Note: advanced prototyping is Server-Client running on same computer (ignoring Stack, Sockets, and VPN Tunneling)
+  - See Networking Example
+    - https://github.com/MercersKitchen/Network-Sandbox
+    - try https://github.com/QEHS-Networking
+
+[Case Study, Brain Storming] Creating the Ultimate Music Program used in Drawing Program or stand-alone
+  - Example: music fan, mediation or other unique tastes, instrumentation (i.e. saxophone favorites)
+  - Example: "demo" examples or music can be emailed as an executable app (developing this can be viewed as a part-time job)
+
+In addition to Author Page Text Expectations
+- Searching for images (min 3), audio, and video material (min 1 each), can be added after app dev is complete
+
+App Version Downloads (executable or Processing-Java version)
+- Note: Processing-Java may not run on another program as developed on author's
+
+Project Notes or Project Credit: full program, start to finish, mimics all steps
+- Case Study: main screenshot, general GUI, features list, behaviors
+- Final Product and Prototyping illustrating development progress (similar to lessons demonstrating potential and then actual product)
+- To Do List for future versions
 
 
 ---
