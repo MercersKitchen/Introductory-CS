@@ -343,3 +343,13 @@ Sections (Copy to all New Repos)
 - Extensions
 
 ---
+
+Aiming towards for final profects (i.e. exams)
+- CANVAS Checker within Display
+- Orientation Checker (in setup() and what it might be in draw() for "turn your phun"
+- Night Mode colours (button and system clock)
+- Button pressing as rect()
+- Images with Aspect Ratio only (similar to display orientation)
+- Button Algorithms (beginning with two basic types in "Do This Not That" & "moving population() to mousePress()
+
+---
