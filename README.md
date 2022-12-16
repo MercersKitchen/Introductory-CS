@@ -101,6 +101,9 @@ https://github.com/MercersKitchen/Past-Lesson-Ideas
 ---
 
 Algorithms
+
+-Paper and Pencil, Scissors: order on desk and record with image
+
 - Triggers
 - Data to work on
 - produce at least one result
