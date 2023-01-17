@@ -129,6 +129,15 @@ Final Project is started at the beginning of the term and graded at the end,  bu
 
 ---
 
+Websites: Promotion of Whatever the CSE Final Project is
+- Default is Music Player or Drawing App
+
+Advanced at CS10 Level
+- Do All above but with JavaScript writing HTML
+- See Connor & Skills
+
+---
+
 Rewriting from Summer School Experience
 - HTML & CSS Website Hosting and Promotion
 - IPO: Booleans, other triggers, operators and assignment operators (see Display Geometry and GUI Design)
