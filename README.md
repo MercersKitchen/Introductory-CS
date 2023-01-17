@@ -133,7 +133,7 @@ Websites: Promotion of Whatever the CSE Final Project is
 - Default is Music Player or Drawing App
 
 Advanced at CS10 Level
-- Do All above but with JavaScript writing HTML
+- Do All above but DOM
 - See Connor & Skills
 
 ---
