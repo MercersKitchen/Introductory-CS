@@ -116,6 +116,15 @@ Algorithms
 
 # To Include
 
+---
+
+Final Project is started at the beginning of the term and graded at the end,  but all direction is provided by students (use expereinces)
+- reference the lesson numbers
+- Grade this as I go
+- Refer to CSE PRoject A in GradebookInformation & CS10.txt
+
+---
+
 Rewriting from Summer School Experience
 - HTML & CSS Website Hosting and Promotion
 - IPO: Booleans, other triggers, operators and assignment operators (see Display Geometry and GUI Design)
