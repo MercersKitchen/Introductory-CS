@@ -118,6 +118,10 @@ Algorithms
 
 ---
 
+Staring with the Final Exam - Graded through the term
+
+Assignments through term present instruction, practice, and experience
+
 Final Project is started at the beginning of the term and graded at the end,  but all direction is provided by students (use expereinces)
 - reference the lesson numbers
 - Grade this as I go
