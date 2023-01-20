@@ -28,6 +28,10 @@ Focus on GUI and Functionality
 
 ---
 
+New Lesson Ideas, Music Player: https://github.com/Intro-CS-App-Dev-and-Deploy/Music-Player
+
+---
+
 ### Other details: this *Science Option* does **not** include a *Diploma Exam*
 - "The Grade" is only between the student and Mr. Mercer
 - Learning, Evaluation, and Assessment
