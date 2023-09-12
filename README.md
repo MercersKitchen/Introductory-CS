@@ -3,7 +3,7 @@ Android App Development & Website Promotion in Synchronous or A-Synchronous Enga
 
 **NOTE**: only have a Chromebook?
 - REPL.IT or https://replit.com/ is a good option that fully syncs to GitHub
-- Good Video to link GitHub with Repl.it: <a href="https://www.youtube.com/watch?v=14BzqAx55ao">Repl.it Github Integration, Accessed 20220223</a>
+- Good Video to link GitHub with Repl.it: <a href="https://www.youtube.com/watch?v=14BzqAx55ao">Repl.it Github Integration, Accessed 20230912</a>
 
 **CAUTION** Mr. Mercer has not tested this fully but it remains an option
 
